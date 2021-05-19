@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="register_text">Rigister</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="string_bio">Bio</string>
+    <string name="continue_text">Continue</string>
+    <string name="string_date_of_birth">Birth date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
